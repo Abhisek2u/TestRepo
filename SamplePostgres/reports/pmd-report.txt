@@ -1,0 +1,9 @@
+src/com/ab/DemoPMD.java:8:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/ab/DemoPMD.java:8:	headerCommentRequirement Required
+src/com/ab/DemoPMD.java:9:	fieldCommentRequirement Required
+src/com/ab/DemoPMD.java:10:	Avoid using redundant field initializer for 'connection'
+src/com/ab/DemoPMD.java:10:	fieldCommentRequirement Required
+src/com/ab/DemoPMD.java:12:	Parameter 'args' is not assigned and could be declared final
+src/com/ab/DemoPMD.java:12:	publicMethodCommentRequirement Required
+src/com/ab/DemoPMD.java:22:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/ab/DemoPMD.java:23:	There is log block not surrounded by if
